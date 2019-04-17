@@ -1,4 +1,4 @@
-\subsection{Axthelm, Alex}
+# Axthelm, Alex
 
 Alex Axthelm is a Data Analyst at the Indiana Commission for Higher
 Education, where he provided data support for the disbursement of over
